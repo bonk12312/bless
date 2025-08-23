@@ -108,7 +108,7 @@ function App() {
               <>
                 <div className="text-center mb-12">
                   <h1 className="text-5xl md:text-6xl font-bold mb-4 text-white font-orbitron tracking-wider">
-                    AI ORACLE SYSTEM
+                    BOOK OF BLESSINGS
                   </h1>
                   <p className="text-white/70 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed font-orbitron">
                     ADVANCED NEURAL NETWORK FOR WISDOM DISTRIBUTION. INPUT YOUR PARAMETERS 
