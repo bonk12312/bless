@@ -28,7 +28,7 @@ export const Header: React.FC<HeaderProps> = ({
           <Bot className="w-8 h-8 text-white" />
           <div>
             <h1 className="text-lg font-bold text-white font-orbitron tracking-wider">
-              AI ORACLE
+              BLESSING BOOK
             </h1>
             <p className="text-xs text-white/60 font-orbitron">
               NEURAL BLESSING SYSTEM
